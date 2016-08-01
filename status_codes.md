@@ -1,10 +1,10 @@
 Here are the types of requests:
-| Types |
-| ----- |
-| SRV REQ: Server response. |
-| SRV ERR: Server error response. |
-| CLNT REQ: Client request. |
-| CLNT ERR: Client error. |
+Type | Definition
+---- |
+SRV REQ | Server response.
+SRV ERR  | Server error response.
+CLNT REQ | Client request.
+CLNT ERR | Client error.
 
 
 Status codes are as follows:
