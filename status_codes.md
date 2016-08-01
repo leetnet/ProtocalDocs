@@ -2,7 +2,6 @@ Status codes are as follows:
 
 Code | Argument
 ---- | --------
-
 SRV REQ: 100 - Document transmission | STRING body
 SRV REQ: 101 - Download file | STRING location
 CLNT REQ: 102 - Document request | STRING location
