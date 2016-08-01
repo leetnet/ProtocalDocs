@@ -1,6 +1,6 @@
 Here are the types of requests:
 Type | Definition
----- |
+---- | ---------
 SRV REQ | Server response.
 SRV ERR  | Server error response.
 CLNT REQ | Client request.
