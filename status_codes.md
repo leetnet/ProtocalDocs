@@ -1,4 +1,5 @@
 Here are the types of requests:
+
 Type | Definition
 ---- | ---------
 SRV REQ | Server response.
