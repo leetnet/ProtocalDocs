@@ -1,5 +1,10 @@
-Status codes are as follows:
+Here are the types of requests:
+SRV REQ: Server response
+SRV ERR: Server error response
+CLNT REQ: Client request
+CLNT ERR: Client error.
 
+Status codes are as follows:
 Code | Argument
 ---- | --------
 SRV REQ: 100 - Document transmission | STRING body
